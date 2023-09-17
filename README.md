@@ -3,11 +3,9 @@ Startups Analysis (2012-2021)
 (ENG/PT)
 
 Data Analysis about Startups companies around the world between 2012 and 2021.
-
-Análise de dados sobre Startups ao redor do mundo entre 2012 e 2021.
-
 Started uploading the collected data that was stored as CSV files to Google BigQuery, to afterwards explore, clean and prepare the data to build visuals resources throught Looker Studio.
 
+Análise de dados sobre Startups ao redor do mundo entre 2012 e 2021.
 Iniciei direcionando os dados coletados que estavam em formato CSV para o Google Bigquery, para então realizar a exploração, limpeza e preparação os dados para construir visualizações através do Looker Studio.
 
 ```SQL
